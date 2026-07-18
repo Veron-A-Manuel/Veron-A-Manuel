@@ -1,16 +1,135 @@
-## Hi there 👋
+# Veron Arcanjo
 
-<!--
-**Veron-A-Manuel/Veron-A-Manuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor Full Stack**
 
-Here are some ideas to get you started:
+Me chamo **Veron Arcanjo** e sou apaixonado por tecnologia, desenvolvimento de software e automação de processos. Tenho experiência no desenvolvimento de aplicações web, APIs e soluções empresariais, utilizando tecnologias modernas para criar sistemas eficientes e escaláveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, trabalho com desenvolvimento Full Stack, bancos de dados e integrações, sempre buscando aprender novas tecnologias e construir projetos que resolvam problemas reais. Meu objetivo é criar soluções inovadoras, automatizar tarefas repetitivas e evoluir constantemente como desenvolvedor.
+
+<p align="left">
+    <a href="https://github.com/Veron-A-Manuel?tab=followers">
+        <img alt="followers" title="Seguidores no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Veron-A-Manuel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
+    </a>
+    <a href="https://github.com/Veron-A-Manuel?tab=repositories&sort=stargazers">
+        <img alt="total stars" title="Total de estrelas" src="https://custom-icon-badges.demolab.com/github/stars/Veron-A-Manuel?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
+    </a>
+    <a href="https://github.com/Veron-A-Manuel">
+        <img alt="Visualizações do perfil" title="Visualizações do perfil" src="https://komarev.com/ghpvc/?username=Veron-A-Manuel&style=for-the-badge&color=blue"/>
+    </a>
+</p>
+
+---
+
+# Linguagens e Tecnologias
+
+<img
+  align="left"
+  alt="HTML"
+  title="HTML"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+
+<img
+  align="left"
+  alt="CSS"
+  title="CSS"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+
+<img
+  align="left"
+  alt="JavaScript"
+  title="JavaScript"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+
+<img
+  align="left"
+  alt="TypeScript"
+  title="TypeScript"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+
+<img
+  align="left"
+  alt="Node.js"
+  title="Node.js"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+/>
+
+<img
+  align="left"
+  alt="Java"
+  title="Java"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+
+<img
+  align="left"
+  alt="Tailwind CSS"
+  title="Tailwind CSS"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+/>
+
+<img
+  align="left"
+  alt="MySQL"
+  title="MySQL"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+
+<img
+  align="left"
+  alt="Git"
+  title="Git"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+<img
+  align="left"
+  alt="GitHub"
+  title="GitHub"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+
+<br clear="left"/>
+
+---
+
+### Estatísticas
+
+<p align="left">
+    <img
+        align="left"
+        alt="GitHub Stats"
+        height="200"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api?username=Veron-A-Manuel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
+    />
+    <img
+        align="left"
+        alt="Linguagens mais usadas"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veron-A-Manuel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+    />
+</p>

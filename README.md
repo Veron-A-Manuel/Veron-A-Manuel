@@ -118,18 +118,18 @@ Atualmente, trabalho com desenvolvimento Full Stack, bancos de dados e integraç
 
 ### Estatísticas
 
+
 <p align="left">
     <img
         align="left"
         alt="GitHub Stats"
         height="200"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=Veron-A-Manuel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Veron-A-Manuel&theme=tokyonight"
     />
     <img
         align="left"
         alt="Linguagens mais usadas"
         height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veron-A-Manuel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
-    />
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Veron-A-Manuel&theme=tokyonight" />
 </p>

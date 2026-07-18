@@ -2,9 +2,9 @@
 
 **Desenvolvedor Full Stack**
 
-Me chamo **Veron Arcanjo** e sou apaixonado por tecnologia, desenvolvimento de software e automação de processos. Tenho experiência no desenvolvimento de aplicações web, APIs e soluções empresariais, utilizando tecnologias modernas para criar sistemas eficientes e escaláveis.
+Me chamo **Veron Arcanjo** e sou apaixonado por tecnologia, desenvolvimento de software e automação de processos. Tenho experiência no desenvolvimento de aplicações web, APIs e soluções, utilizando tecnologias modernas para criar sistemas eficientes e escaláveis.
 
-Atualmente, trabalho com desenvolvimento Full Stack, bancos de dados e integrações, sempre buscando aprender novas tecnologias e construir projetos que resolvam problemas reais. Meu objetivo é criar soluções inovadoras, automatizar tarefas repetitivas e evoluir constantemente como desenvolvedor.
+Atualmente, trabalho com desenvolvimento Full Stack, bancos de dados e integrações, sempre buscando aprender novas tecnologias e construir projetos que resolvam problemas reais. Meu objetivo é criar `soluções inovadoras`, `automatizar tarefas repetitivas e evoluir constantemente como desenvolvedor`.
 
 <p align="left">
     <a href="https://github.com/Veron-A-Manuel?tab=followers">

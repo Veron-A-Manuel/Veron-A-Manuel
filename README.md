@@ -21,7 +21,6 @@ Atualmente, trabalho com desenvolvimento Full Stack, bancos de dados e integraç
 ---
 
 # Linguagens e Tecnologias
-
 <img
   align="left"
   alt="HTML"
@@ -60,20 +59,20 @@ Atualmente, trabalho com desenvolvimento Full Stack, bancos de dados e integraç
 
 <img
   align="left"
+  alt="React"
+  title="React"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+
+<img
+  align="left"
   alt="Node.js"
   title="Node.js"
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
-
-<img
-  align="left"
-  alt="Java"
-  title="Java"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 
 <img
@@ -87,11 +86,47 @@ Atualmente, trabalho com desenvolvimento Full Stack, bancos de dados e integraç
 
 <img
   align="left"
+  alt="Java"
+  title="Java"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+
+<img
+  align="left"
+  alt="PHP"
+  title="PHP"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
+
+<img
+  align="left"
+  alt="Python"
+  title="Python"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img
+  align="left"
   alt="MySQL"
   title="MySQL"
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+
+<img
+  align="left"
+  alt="Electron"
+  title="Electron"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg"
 />
 
 <img
@@ -114,8 +149,6 @@ Atualmente, trabalho com desenvolvimento Full Stack, bancos de dados e integraç
 
 <br clear="left"/>
 
----
-
 ### Estatísticas
 
 
@@ -131,5 +164,5 @@ Atualmente, trabalho com desenvolvimento Full Stack, bancos de dados e integraç
         align="left"
         alt="Linguagens mais usadas"
         height="200"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Veron-A-Manuel&theme=tokyonight" />
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Veron-A-Manuel&theme=tokyonight" />
 </p>

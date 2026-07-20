@@ -1,6 +1,6 @@
 # Veron Arcanjo
 
-**Desenvolvedor Full Stack**
+**`Desenvolvedor Full Stack`**
 
 Me chamo **Veron Arcanjo** e sou apaixonado por tecnologia, desenvolvimento de software e automação de processos. Tenho experiência no desenvolvimento de aplicações web, APIs e soluções, utilizando tecnologias modernas para criar sistemas eficientes e escaláveis.
 
@@ -20,7 +20,7 @@ Atualmente, trabalho com desenvolvimento Full Stack, bancos de dados e integraç
 
 ---
 
-# Linguagens e Tecnologias
+# `Tecnologias`
 <img
   align="left"
   alt="HTML"

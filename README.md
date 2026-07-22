@@ -166,3 +166,37 @@ Atualmente, trabalho com desenvolvimento Full Stack, bases de dados e integraç�
         height="200"
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Veron-A-Manuel&theme=tokyonight" />
 </p>
+
+
+<br clear="left"/>
+
+---
+
+# 🌐 Projetos Publicados
+
+<table>
+<tr>
+<th>Projeto</th>
+<th>Tecnologias</th>
+<th>Código</th>
+<th>Demo</th>
+</tr>
+
+<tr>
+<td>Projeto 01</td>
+<td>HTML • CSS • JavaScript</td>
+<td><a href="#">GitHub</a></td>
+<td><a href="#">Demo</a></td>
+</tr>
+
+<tr>
+<td>Projeto 02</td>
+<td>React • Node.js</td>
+<td><a href="#">GitHub</a></td>
+<td><a href="#">Demo</a></td>
+</tr>
+
+</table>
+
+---
+
